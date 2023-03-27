@@ -7,3 +7,6 @@ Following artifacts are available to help with the integration to entity service
 To help with integration of entity service, detailed API documentation has been published and made available [here](https://directory-service.redoc.ly/).
 ## Postman Collection
 Postman collection with example use cases around APIs has been published and made available [here](https://www.postman.com/xcaliberapis/workspace/public/collection/25270831-00e5c2ec-746d-48a4-99f9-1df18663d544).
+
+## Entity data model 
+Example json has been added for respective entities to represent the schema. These are hierarchical in nature and would provide a lot of help in writing query APIs on these entities. 
