@@ -1,0 +1,77 @@
+{
+	"active": "true",
+	"edi_claim_active": "true",
+	"ehr_prov": "N",
+	"ext_name": "",
+	"prov_abbr": "TEST, PROVIDER",
+	"prov_cred": "MD",
+	"prov_cred_id": "",
+	"prov_id": "11897",
+	"prov_name": "PROVIDER, TEST",
+	"prov_type": "",
+	"res_name": "Person",
+	"sex": "",
+	"identifiers": [
+		{
+			"id": "a359fe17-9de7-43cd-912b-0462116259d0",
+			"end_date": "",
+			"identifier_id": "759698ac-4fe1-5a7c-bc24-286aa75c4558",
+			"id_type": "NPI",
+			"id_type_code": "",
+			"id_value": "1155153",
+			"prov_id": "11897",
+			"start_date": ""
+		}
+	],
+	"locations": [
+		{
+			"id": "759c5d27-9293-4fa4-b05f-9a0d2e15feea",
+			"admin_priv": "",
+			"end_date": "",
+			"location_id": "371fbe3b-5369-5d85-966f-341c5eea5fdb",
+			"loc_code": "",
+			"loc_id": "",
+			"loc_name": "",
+			"loc_type": "",
+			"parent_loc_id": "",
+			"prov_id": "11897",
+			"start_date": "",
+			"roles": [
+				{
+					"id": "b77801c6-8401-4e0c-a61e-fe62f783ce81",
+					"end_date": "",
+					"location_id": "371fbe3b-5369-5d85-966f-341c5eea5fdb",
+					"loc_id": "",
+					"prov_id": "11897",
+					"prov_type": "Physician",
+					"prov_type_id": "1",
+					"role_id": "6d651960-2ed0-579c-a5da-4c37987ef902",
+					"start_date": "",
+					"specialties": [
+						{
+							"id": "f6f47d67-f3d1-4d49-86f2-fb5ea58e6034",
+							"amb_sup_prov": "",
+							"amb_sup_reqd": "",
+							"bill_prov": "",
+							"ed_prov": "",
+							"ed_sup_prov": "",
+							"ed_sup_reqd": "",
+							"end_date": "",
+							"int_or_ext": "",
+							"location_id": "371fbe3b-5369-5d85-966f-341c5eea5fdb",
+							"loc_id": "",
+							"prov_id": "11897",
+							"prov_type_id": "1",
+							"resident": "",
+							"role_id": "6d651960-2ed0-579c-a5da-4c37987ef902",
+							"serv_prov": "",
+							"specialty": "",
+							"specialty_id": "0f1b5810-da9f-56a1-952e-d939bee3e332",
+							"start_date": ""
+						}
+					]
+				}
+			]
+		}
+	]
+}
